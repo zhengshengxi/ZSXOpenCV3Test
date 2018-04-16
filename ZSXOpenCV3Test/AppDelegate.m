@@ -17,7 +17,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    //啦啦啦test1
+    //啦啦啦test
     return YES;
 }
 
